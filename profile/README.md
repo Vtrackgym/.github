@@ -35,6 +35,8 @@ Se você deseja contribuir:
 
 --------------------
 
+# English Version
+
 Welcome to the official **Vtrack** repository! Here you'll find the starting point to learn about, collaborate on, and explore our open-source projects.
 
 Here you'll find the central hub of this continuously evolving external platform for performance, workout tracking, and social experience in the fitness world.
