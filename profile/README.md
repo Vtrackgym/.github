@@ -1,4 +1,4 @@
-# VTRACK
+# VTRACK - ᴘᴛ
 
 Bem-vindos ao repositório oficial do **Vtrack**! Aqui você encontra o ponto inicial para conhecer, colaborar e aprender com nossos projetos de código aberto.
 
@@ -35,7 +35,7 @@ Se você deseja contribuir:
 
 --------------------
 
-# English Version
+# VTRACK - ᴇɴ (English Version)
 
 Welcome to the official **Vtrack** repository! Here you'll find the starting point to learn about, collaborate on, and explore our open-source projects.
 
@@ -71,3 +71,5 @@ If you wish to contribute:
 - Create a branch (feature/new-feature)
 - Commit your changes
 - Open a Pull Request
+
+by caiothevisual
